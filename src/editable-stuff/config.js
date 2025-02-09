@@ -51,7 +51,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Mahir Aziz. I’m a student of George Washington University with an expectation to graduate in 2028. I have a great passion for 2D animation and action. ",
-  "https://drive.google.com/file/d/1jVP-4R6IoEBeHP610jsbU1qgzwnGFUkl/view?usp=drivesdk",
+  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
 // PROJECTS SECTION
