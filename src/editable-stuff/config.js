@@ -6,10 +6,10 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Mahir",
   middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  lastName: "Aziz",
+  message: " Passionate about making art alive through animation. ",
   icons: [
     {
       image: "fa-github",
@@ -54,8 +54,8 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "My name is Mahir Aziz. I’m a student of George Washington University with an expectation to graduate in 2028. I have a great passion for 2D animation and action. ",
+  resume: "https://drive.google.com/file/d/1jVP-4R6IoEBeHP610jsbU1qgzwnGFUkl/view?usp=drivesdk",
 };
 
 // PROJECTS SECTION
@@ -100,14 +100,10 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "2D animation", value: 90 },
+    { name: "Editing", value: 75 },
+    { name: "Storyboarding", value: 85 },
+
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
