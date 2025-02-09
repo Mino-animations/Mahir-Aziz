@@ -96,10 +96,14 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "2D animation", value: 90 },
-    { name: "Editing", value: 75 },
-    { name: "Storyboarding", value: 85 },
-
+    { name: "Python", value: 90 },
+    { name: "SQL", value: 75 },
+    { name: "Data Structures", value: 85 },
+    { name: "C/C++", value: 65 },
+    { name: "JavaScript", value: 90 },
+    { name: "React", value: 65 },
+    { name: "HTML/CSS", value: 55 },
+    { name: "C#", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -112,7 +116,6 @@ const skills = {
     { name: "Creativity", value: 90 },
   ],
 };
-
 // GET IN TOUCH SECTION
 const getInTouch = {
   show: true,
