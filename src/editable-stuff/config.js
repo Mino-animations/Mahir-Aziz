@@ -56,7 +56,7 @@ const about = {
 
 
 <video width="640" height="360" controls>
-  <source src="https://github.com/username/repository-name/raw/main/assets/videos/my-video.mp4" type="video/mp4">
+  <source src="src/editable-stuff/moldratha wip.mkv" type="video/mkv">
   Your browser does not support the video tag.
 </video>
 // PROJECTS SECTION
