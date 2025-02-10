@@ -54,6 +54,11 @@ const about = {
   MahirAzizResume(3): "https://drive.google.com/file/d/1jVP-4R6IoEBeHP610jsbU1qgzwnGFUkl/view?usp=drivesdk",
 };
 
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/username/repository-name/raw/main/assets/videos/my-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 // PROJECTS SECTION
 // Setting up project lenght will automatically fetch your that number of recently updated projects, or you can set this field 0 to show none.
 //      i.e: reposLength: 0,
